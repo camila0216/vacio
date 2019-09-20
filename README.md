@@ -29,5 +29,6 @@ Devolverse: adb shell input keyevent 4
 
 Desinstalar la aplicación: adb unstall ./com.whatsapp_452954_apps.evozi.com.apk
 
+# Screenshots e Imágenes
 Los screenshots solicitados se encuentran dentro de la carpeta img del proyecto. De igual forma la secuencia completa de comandos puede verse en la consola a medida que va corriendo el script. 
 
