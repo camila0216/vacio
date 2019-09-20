@@ -1,6 +1,6 @@
 # Parcial Camila Gómez Schrader 201531412
 
-El celular utilizado para el desarrollo del parcial corresponde a un Moto G5 plus con Android Oreo. Se realizó un proyecto en Java que contiene el sdk dentro de la carpeta. Para correrlo solo basta con darle click derecho a la clase Script.java y hacer click en la opción "Run As" y después en "2 Java Application".
+El celular utilizado para el desarrollo del parcial corresponde a un Moto G5 plus con Android Oreo. Se realizó un proyecto en Java que contiene el apk dentro de la carpeta. Para correrlo solo basta con darle click derecho a la clase Script.java y hacer click en la opción "Run As" y después en "2 Java Application".
 
 # Comandos
 
